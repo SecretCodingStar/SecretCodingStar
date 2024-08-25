@@ -78,7 +78,7 @@ Please feel free to explore my GitHub repositories and contact me with any quest
     <img src="https://img.shields.io/badge/SpringBoot-282C34?logo=SpringBoot&logoColor=grey" alt="SpringBoot logo" title="SpringBoot" height="20" />  
     <img src="https://img.shields.io/badge/Python-282C34?logo=Python&logoColor=grey" alt="Python logo" title="Python" height="20" />  
     <img src="https://img.shields.io/badge/Django-282C34?logo=Django&logoColor=41B883" alt="Django logo" title="Django" height="20" />  
-    <img src="https://img.shields.io/badge/GoLang-282C34?logo=GoLang&logoColor=41B883" alt="GoLang logo" title="GoLang" height="20" />  
+    <img src="https://img.shields.io/badge/Golang-282C34?logo=Golang&logoColor=41B883" alt="Golang logo" title="Golang" height="20" />  
     <img src="https://img.shields.io/badge/Solidity-282C34?logo=Solidity&logoColor=41B883" alt="Solidity logo" title="Solidity" height="20" />  
     <img src="https://img.shields.io/badge/Rust-282C34?logo=Rust&logoColor=41B883" alt="Rust logo" title="Rust" height="20" />  
    </td>
