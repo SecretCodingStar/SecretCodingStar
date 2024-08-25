@@ -63,20 +63,22 @@ Please feel free to explore my GitHub repositories and contact me with any quest
     <img src="https://img.shields.io/badge/JQuery-282C34?logo=jQuery&logoColor=3178C6" alt="jQuery logo" title="jQuery" height="20" />  
     <img src="https://img.shields.io/badge/React-282C34?logo=React&logoColor=61DBFB" alt="React logo" title="React" height="20" />  
     <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=61DBFB" alt="Redux logo" title="Redux" height="20" />  
-    <img src="https://img.shields.io/badge/Vue.js-282C34?logo=Vue.js&logoColor=61DBFB" alt="Vue.js logo" title="Vue.js" height="20" />  
     <img src="https://img.shields.io/badge/Next.js-282C34?logo=Next.js&logoColor=41B883" alt="Next.js logo" title="Next.js" height="20" />  
+    <img src="https://img.shields.io/badge/Vue.js-282C34?logo=Vue.js&logoColor=61DBFB" alt="Vue.js logo" title="Vue.js" height="20" />  
     <img src="https://img.shields.io/badge/Angular-282C34?logo=Angular&logoColor=41B883" alt="Angular logo" title="Angular.js" height="20" />  
    </td>    
    <td valign="center" align="center" width="400px">
+    <img src="https://img.shields.io/badge/node.js-282C34?logo=node.js&logoColor=F5517F" alt="node.js logo" title="node.js" height="20" />  
+    <img src="https://img.shields.io/badge/Express-282C34?logo=Express&logoColor=41B883" alt="Express logo" title="Express" height="20" /> 
     <img src="https://img.shields.io/badge/php-282C34?logo=php&logoColor=41B883" alt="php logo" title="php" height="20" />  
     <img src="https://img.shields.io/badge/Laravel-282C34?logo=Laravel&logoColor=F05032" alt="Laravel logo" title="Laravel" height="20" />  
     <img src="https://img.shields.io/badge/CodeIgniter-282C34?logo=CodeIgniter&logoColor=yellow" alt="CodeIgniter logo" title="CodeIgniter" height="20" />  
     <img src="https://img.shields.io/badge/Symfony-282C34?logo=Symfony&logoColor=pink" alt="Symfony logo" title="Symfony" height="20" />  
-    <img src="https://img.shields.io/badge/node.js-282C34?logo=node.js&logoColor=F5517F" alt="node.js logo" title="node.js" height="20" />  
-    <img src="https://img.shields.io/badge/Express-282C34?logo=Express&logoColor=41B883" alt="Express logo" title="Express" height="20" />  
+    <img src="https://img.shields.io/badge/Java-282C34?logo=Java&logoColor=grey" alt="Java logo" title="Java" height="20" />  
+    <img src="https://img.shields.io/badge/SpringBoot-282C34?logo=SpringBoot&logoColor=grey" alt="SpringBoot logo" title="SpringBoot" height="20" />  
     <img src="https://img.shields.io/badge/Python-282C34?logo=Python&logoColor=grey" alt="Python logo" title="Python" height="20" />  
     <img src="https://img.shields.io/badge/Django-282C34?logo=Django&logoColor=41B883" alt="Django logo" title="Django" height="20" />  
-    <img src="https://img.shields.io/badge/Golang-282C34?logo=Golang&logoColor=41B883" alt="Golang logo" title="Golang" height="20" />  
+    <img src="https://img.shields.io/badge/GoLang-282C34?logo=GoLang&logoColor=41B883" alt="GoLang logo" title="GoLang" height="20" />  
     <img src="https://img.shields.io/badge/Solidity-282C34?logo=Solidity&logoColor=41B883" alt="Solidity logo" title="Solidity" height="20" />  
     <img src="https://img.shields.io/badge/Rust-282C34?logo=Rust&logoColor=41B883" alt="Rust logo" title="Rust" height="20" />  
    </td>
