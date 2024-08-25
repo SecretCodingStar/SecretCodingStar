@@ -64,6 +64,7 @@ Please feel free to explore my GitHub repositories and contact me with any quest
     <img src="https://img.shields.io/badge/React-282C34?logo=React&logoColor=61DBFB" alt="React logo" title="React" height="20" />  
     <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=61DBFB" alt="Redux logo" title="Redux" height="20" />  
     <img src="https://img.shields.io/badge/Next.js-282C34?logo=Next.js&logoColor=41B883" alt="Next.js logo" title="Next.js" height="20" />  
+           <img src="https://img.shields.io/badge/Angular-282C34?logo=Angular&logoColor=41B883" alt="Angular logo" title="Angular.js" height="20" />  
    </td>    
    <td valign="center" align="center" width="400px">
     <img src="https://img.shields.io/badge/php-282C34?logo=php&logoColor=41B883" alt="php logo" title="php" height="20" />  
